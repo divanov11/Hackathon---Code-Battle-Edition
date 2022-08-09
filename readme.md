@@ -56,7 +56,7 @@ Designers will be given $500 on top of the $1,000 allocated for each winner.
 <br>
 
 Register as a participant for a chance to win the grand prize of **$1,000**
-<br>
+
 <br>
 <a href="https://forms.gle/kZtK8eSg9bD72CHx7" style="background:#D0342C;padding:10px;color:white">💻 I am a developer <a/>
 
@@ -64,7 +64,7 @@ Register as a participant for a chance to win the grand prize of **$1,000**
 
 Register as a designer to be partnered with a contestant for a chance to win **$500**
 <br>
-<br>
+
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSebxOB3LSVOCYbapaAGUuXhFY0F3diFFmuaH6kx1M82AsbL1A/viewform?usp=sf_link" style="background:#D0342C;padding:10px;color:white">🎨 I am a designer <a/>
 
