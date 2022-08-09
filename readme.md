@@ -6,6 +6,7 @@ Our next hackathon is live starting now! On august 29st participants will submit
 
 - Start date: Now!
 - Deadline: 8/29 - 12:00am PST
+- Winner announcement: 8/31 - 9:00am PST
   
 ## 💰 Prize Money
 
