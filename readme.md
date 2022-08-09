@@ -4,7 +4,7 @@ Our next hackathon is live starting now! On august 29st participants will submit
 
 ## :calendar: Important Dates
 
-- Start date: Now!
+- Start date: 8/12
 - Deadline: 8/29 - 12:00am PST
 - Winners announcement: 8/31 - 9:00am PST
   
@@ -32,3 +32,10 @@ Do you know Figma, Adobe XD? Or maybe you just have good css/design skills, You 
 
 Pick a challenge, solve the problemset. There will be two challenges presented. Your job will be to pick a challenge and solve the problem by presenting an idea/solution, designing and prototyping your solution and writing a 1-4 sentence elevator pitch on why your solution solves the problem.
 
+## 🎨 Team up with a Designer (Optional)
+
+Each participant will have a list of designers to choose from to help with prototyping and mockups. 
+
+**Don't worry, you WILL NOT have to split your winnings!**
+
+Designers will be given $500 on top of the $1,000 allocated for each winner.
