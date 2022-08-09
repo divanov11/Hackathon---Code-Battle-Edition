@@ -53,11 +53,35 @@ Designers will be given $500 on top of the $1,000 allocated for each winner.
 
 ### 📝 Register Here
 
-Register as a participant for a chance to win the grand prize of **$1,000**
+> Register as a participant for a chance to win the grand prize of **$1,000**
 
 <a href="https://forms.gle/kZtK8eSg9bD72CHx7" >💻 I am a developer <a/>
 
-Register as a designer to be partnered with a contestant for a chance to win **$500**
+> Register as a designer to be partnered with a contestant for a chance to win **$500**
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSebxOB3LSVOCYbapaAGUuXhFY0F3diFFmuaH6kx1M82AsbL1A/viewform?usp=sf_link" >🎨 I am a designer <a/>
 
+
+## 🏁 Challenges
+
+
+### ⚙️ Option #1 - Productivity Meeting Website
+
+We all hate endless meetings that waste our time, Especially those meetings that were set on your calender for 15 or 30 minutes but end up dragging on because no one is paying attention. 
+
+**Problemset:** Present & prototype an idea for a video meeting app, something like google hangout, but with a feature that solves this issue.
+
+**Your Tools:** Use Agoras [video calling SDK](https://www.agora.io/en/products/video-call) for video chat.
+
+**Example Ideas:**
+- A video calling app that automatically shuts off when meeting time expires
+- A video calling app that forces both users to extend meeting in 5 minute increments when we cross scheduled meeting time.
+
+**Minimal requirements**
+
+- Working video calls
+- Design mockup for app - Figma & Adobe XD work
+- Presentation of your app and idea in a 1-4 sentence written sales pitch. Provide source code, images, etc.
+
+
+### ⚙️ Option #2 - Developer Search Website For Hiring Managers
