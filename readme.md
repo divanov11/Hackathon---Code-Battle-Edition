@@ -104,3 +104,31 @@ As a hiring manager it can be annoying to search linked and github accounts look
 Winner of challenge #2 will receive an extra **$500** ($1,500 Total) if they use HarperDB as the database in their application.
 
 Visit [harperdb.io](https://harperdb.io/) to get started.
+
+## What Judges Are Looking For
+
+- Your idea
+- Your design
+- Your presentation
+- Team work
+
+The objective here is to come up with an idea and prototype it, we judges are NOT looking for fully functional applications. 
+
+You will be judged on the creativity of your idea, the presentation of it (Visually) and the pitch (Written). We want to see you sell your awesome idea!
+
+There are minimal requirements set for each challenge so you should have working code. The more functional your code is the better chance you have.
+
+Although it's not required, it is highly recommended to work with a designer. Judges will view projects submitted by teams. This is an important part of development so we like to see how well you work in teams.
+
+## FAQ
+
+**Q:** Do I need to work with a designer?
+<br>
+**A:** No, however this will earn you points with the judges.
+
+**Q:** Do need to split winnings with my designer?
+**A:** No, there is an extra $500 allocated for designers so you wont need to split earnings
+
+**Q:** Can designer work with more than 1 contestant?
+<br>
+**A:** Yes. You can join as many contestants as you want to increase you're chances as a designer.
