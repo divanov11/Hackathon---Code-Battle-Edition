@@ -1,19 +1,29 @@
 # Hackathon (Code Battle Edition)
 
-Our next hackathon is live starting now! On august 29st participants will submit a prototype for 1 of the two challenges listed below and will have the chance to win $1,000. Results will be announce live via live stream on auguest 31st.
+Our next hackathon is live starting now! On august 29st participants will submit a prototype for 1 of the two challenges listed below and will have the chance to win $1,000. Results will be announce live via live stream on august 31st.
 
 ## :calendar: Important Dates
 
 - Start date: Now!
 - Deadline: 8/29 - 12:00am PST
-- Winner announcement: 8/31 - 9:00am PST
+- Winners announcement: 8/31 - 9:00am PST
   
 ## 💰 Prize Money
 
 **2 Grand Prize Winners** (One in each Category)
 
-Each winner will recieve **$1,000**, there will be 2 winners.
+Each winner will receive **$1,000**, there will be 2 winners.
 
 **2 Designer Awards** (One in each category)
 
-Each designer (2) will recieve **$500**
+Each designer (2) will receive **$500**
+
+## 👇 Who can participate
+
+**Developers**
+
+If you can code, you can join. Pick a challenge and participate for the chance to win $1,000.
+
+**Designers**
+
+D0 you know Figma, Adobe XD? Or maybe you just have good css/design skills, You can team up with a participant for the chance to win $500.
