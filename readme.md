@@ -105,12 +105,12 @@ Winner of challenge #2 will receive an extra **$500** ($1,500 Total) if they use
 
 Visit [harperdb.io](https://harperdb.io/) to get started.
 
-## What Judges Are Looking For
+## 🧑‍⚖️ What Judges Are Looking For
 
-- Your idea
-- Your design
-- Your presentation
-- Team work
+- Your idea ✔️
+- Your design ✔️
+- Your presentation ✔️
+- Team work ✔️
 
 The objective here is to come up with an idea and prototype it, we judges are NOT looking for fully functional applications. 
 
@@ -120,7 +120,7 @@ There are minimal requirements set for each challenge so you should have working
 
 Although it's not required, it is highly recommended to work with a designer. Judges will view projects submitted by teams. This is an important part of development so we like to see how well you work in teams.
 
-## FAQ
+## ❓ FAQ
 
 **Q:** Do I need to work with a designer?
 <br>
