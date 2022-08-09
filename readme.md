@@ -86,11 +86,11 @@ We all hate endless meetings that waste our time, Especially those meetings that
 
 ### ⚙️ Option #2 - Developer Search Website For Hiring Managers
 
-As a hiring manager it can be annoying to search linked and github accounts looking for talent.
+As a hiring manager it can be annoying to search linkedin and github accounts looking for talent.
 
 ``**Problemset**`` Present a idea that makes finding developers easier for hiring managers.
 
-``**Your Tools:**`` Use any tech stack you want :wink:
+``**Your Tools:**`` Use [HarperDB](https://harperdb.io/) as your database. The rest is up to you.
 
 ``**Minimal Requirements**`` 
 
@@ -99,11 +99,11 @@ As a hiring manager it can be annoying to search linked and github accounts look
 - Presentation of your app and idea in a 1-4 sentence written sales pitch. Provide source code, images, etc.
 
 
-## 💰Bonus (+$500)💰
+<!-- ## 💰Bonus (+$500)💰
 
 Winner of challenge #2 will receive an extra **$500** ($1,500 Total) if they use HarperDB as the database in their application.
 
-Visit [harperdb.io](https://harperdb.io/) to get started.
+Visit [harperdb.io](https://harperdb.io/) to get started. -->
 
 ## 🧑‍⚖️ What Judges Are Looking For
 
