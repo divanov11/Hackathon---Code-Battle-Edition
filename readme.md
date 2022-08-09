@@ -69,15 +69,15 @@ Designers will be given $500 on top of the $1,000 allocated for each winner.
 
 We all hate endless meetings that waste our time, Especially those meetings that were set on your calender for 15 or 30 minutes but end up dragging on because no one is paying attention. 
 
-**Problemset:** Present & prototype an idea for a video meeting app, something like google hangout, but with a feature that solves this issue.
+``**Problemset:**`` Present & prototype an idea for a video meeting app, something like google hangout, but with a feature that improves meeting productivity.
 
-**Your Tools:** Use Agoras [video calling SDK](https://www.agora.io/en/products/video-call) for video chat.
+``**Your Tools:**`` Use Agoras [video calling SDK](https://www.agora.io/en/products/video-call) for video chat. The rest is up to you.
 
-**Example Ideas:**
+``**Example Ideas:**``
 - A video calling app that automatically shuts off when meeting time expires
 - A video calling app that forces both users to extend meeting in 5 minute increments when we cross scheduled meeting time.
 
-**Minimal requirements**
+``**Minimal requirements**``
 
 - Working video calls
 - Design mockup for app - Figma & Adobe XD work
@@ -85,3 +85,22 @@ We all hate endless meetings that waste our time, Especially those meetings that
 
 
 ### ⚙️ Option #2 - Developer Search Website For Hiring Managers
+
+As a hiring manager it can be annoying to search linked and github accounts looking for talent.
+
+``**Problemset**`` Present a idea that makes finding developers easier for hiring managers.
+
+``**Your Tools:**`` Use any tech stack you want :wink:
+
+``**Minimal Requirements**`` 
+
+- Must have working search on the website
+- Design mockup for app - Figma & Adobe XD work
+- Presentation of your app and idea in a 1-4 sentence written sales pitch. Provide source code, images, etc.
+
+
+## 💰Bonus (+$500)💰
+
+Winner of challenge #2 will receive an extra **$500** ($1,500 Total) if they use HarperDB as the database in their application.
+
+Visit [harperdb.io](https://harperdb.io/) to get started.
