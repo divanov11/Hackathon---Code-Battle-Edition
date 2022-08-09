@@ -26,4 +26,9 @@ If you can code, you can join. Pick a challenge and participate for the chance t
 
 **Designers**
 
-D0 you know Figma, Adobe XD? Or maybe you just have good css/design skills, You can team up with a participant for the chance to win $500.
+Do you know Figma, Adobe XD? Or maybe you just have good css/design skills, You can team up with a participant for the chance to win $500.
+
+## 🎯 Objective
+
+Pick a challenge, solve the problemset. There will be two challenges presented. Your job will be to pick a challenge and solve the problem by presenting an idea/solution, designing and prototyping your solution and writing a 1-4 sentence elevator pitch on why your solution solves the problem.
+
