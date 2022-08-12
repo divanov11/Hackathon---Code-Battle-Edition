@@ -2,6 +2,9 @@
 
 Our next hackathon is live starting now! On august 29th participants will submit a prototype for 1 of the two challenges listed below and will have the chance to win $1,000. Results will be announce live via live stream on august 31st.
 
+### [Join the discord server!](https://discord.gg/b6XP3nrD6V)
+
+
 ## :calendar: Important Dates
 
 - Start date: 8/12
