@@ -86,7 +86,7 @@ We all hate endless meetings that waste our time, Especially those meetings that
 - A video calling app that automatically shuts off when meeting time expires
 - A video calling app that forces both users to extend meeting in 5 minute increments when we cross scheduled meeting time.
 
-**Resources to get you started:** [View Resources](agora_resources.md) 
+**Resources:** [Learn more about how to use Agora here](agora_resources.md) 
 
 ### ⚙️ <ins>Option #2 - Developer Search Website For Hiring Managers</ins>
 
@@ -103,9 +103,9 @@ As a hiring manager it can be annoying to search linkedin and github accounts lo
 - Design mockup for app - Figma, Adobe XD work, Coded Template, etc 
 - Presentation of your app and idea in a 1-4 sentence written sales pitch. Provide source code, images, etc.
 
+**Resources:** [Learn more about how to use HarperDB here](harperdb_resources.md) 
+
 ## 🧑‍⚖️ What Judges Are Looking For
-
-
 
 - Your idea ✔️
 - Your design ✔️
