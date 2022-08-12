@@ -74,7 +74,7 @@ We all hate endless meetings that waste our time, Especially those meetings that
 
 ``Problemset:`` Present & prototype an idea for a video meeting app, something like google hangout, but with a feature that improves meeting productivity.
 
-``Your Tools:`` Use Agoras [video calling SDK](https://www.agora.io/en/products/video-call) for video chat. The rest is up to you.
+``Your Tools:`` Use Agoras [video calling SDK](https://www.agora.io/en/) for video chat. The rest is up to you.
 
 ``Minimal requirements``
 
@@ -85,6 +85,8 @@ We all hate endless meetings that waste our time, Especially those meetings that
 ``Sample ideas to get you started:``
 - A video calling app that automatically shuts off when meeting time expires
 - A video calling app that forces both users to extend meeting in 5 minute increments when we cross scheduled meeting time.
+
+**Resources to get you started:** [View Resources](agora_resources.md) 
 
 ### ⚙️ <ins>Option #2 - Developer Search Website For Hiring Managers</ins>
 
