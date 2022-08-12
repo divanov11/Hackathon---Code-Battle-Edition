@@ -79,7 +79,7 @@ We all hate endless meetings that waste our time, Especially those meetings that
 ``Minimal requirements``
 
 - Working video calls using agora
-- Design mockup for app - Figma, Adobe XD work, Coded Tempalte, etc 
+- Design mockup for app - Figma, Adobe XD work, Coded Template, etc 
 - Presentation of your app and idea in a 1-4 sentence written sales pitch. Provide source code, images, etc.
 
 ``Sample ideas to get you started:``
@@ -96,9 +96,9 @@ As a hiring manager it can be annoying to search linkedin and github accounts lo
 
 ``Minimal Requirements`` 
 
-- HarperDB configuration
+- HarperDB database
 - Must have working search on the website
-- Design mockup for app - Figma, Adobe XD work, Coded Tempalte, etc 
+- Design mockup for app - Figma, Adobe XD work, Coded Template, etc 
 - Presentation of your app and idea in a 1-4 sentence written sales pitch. Provide source code, images, etc.
 
 ## 🧑‍⚖️ What Judges Are Looking For
