@@ -93,7 +93,7 @@ We all hate endless meetings that waste our time, Especially those meetings that
 
 ### ⚙️ <ins>Option #2 - Developer Search Website For Hiring Managers</ins>
 
-As a hiring manager it can be annoying to search linkedin and github accounts looking for talent.
+As a hiring manager it can be annoying to search linkedin and github accounts while looking for talent.
 
 ``Problemset`` Present a idea that makes finding developers easier for hiring managers.
 
