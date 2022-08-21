@@ -4,6 +4,8 @@ Our next hackathon is live starting now! On august 29th participants will submit
 
 ### [Join the discord server!](https://discord.gg/b6XP3nrD6V)
 
+### [Submit Projects Here](https://github.com/divanov11/Hackathon---Code-Battle-Edition)
+
 
 ## :calendar: Important Dates
 
@@ -91,6 +93,8 @@ We all hate endless meetings that waste our time, Especially those meetings that
 
 **Resources:** [Learn more about how to use Agora here](agora_resources.md) 
 
+### [Submit Projects Here](https://github.com/divanov11/Hackathon---Code-Battle-Edition)
+
 ### ⚙️ <ins>Option #2 - Developer Search Website For Hiring Managers</ins>
 
 As a hiring manager it can be annoying to search linkedin and github accounts while looking for talent.
@@ -107,6 +111,8 @@ As a hiring manager it can be annoying to search linkedin and github accounts wh
 - Presentation of your app and idea in a 1-4 sentence written sales pitch. Provide source code, images, etc.
 
 **Resources:** [Learn more about how to use HarperDB here](harperdb_resources.md) 
+
+### [Submit Projects Here](https://github.com/divanov11/Hackathon---Code-Battle-Edition)
 
 ## 🧑‍⚖️ What Judges Are Looking For
 
