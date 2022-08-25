@@ -10,7 +10,7 @@ Our next hackathon is live starting now! On august 29th participants will submit
 ## :calendar: Important Dates
 
 - Start date: 8/12
-- Registration deadline: 8/20 - 12:00am PST
+<!-- - Registration deadline: 8/20 - 12:00am PST -->
 - Submission Deadline: 8/29 - 12:00am PST
 - Winners announcement: 8/31 - 9:00am PST
 
@@ -69,8 +69,11 @@ There will be a channel in the provided discord server for designers and develop
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSebxOB3LSVOCYbapaAGUuXhFY0F3diFFmuaH6kx1M82AsbL1A/viewform?usp=sf_link" target="_blank">🎨 I am a designer <a/>
 
+<br>
 
 ## 🏁 Challenges
+
+<br>
 
 
 ### ⚙️ <ins>Option #1 - Productivity Meeting Website</ins>
@@ -99,7 +102,7 @@ We all hate endless meetings that waste our time, Especially those meetings that
 
 As a hiring manager it can be annoying to search linkedin and github accounts while looking for talent.
 
-``Problemset`` Present a idea that makes finding developers easier for hiring managers.
+``Problemset:`` Present a idea that makes finding developers easier for hiring managers.
 
 ``Your Tools:`` Use [HarperDB](https://harperdb.io/) as your database. The rest is up to you.
 
@@ -113,6 +116,30 @@ As a hiring manager it can be annoying to search linkedin and github accounts wh
 **Resources:** [Learn more about how to use HarperDB here](harperdb_resources.md) 
 
 ### [Submit Projects Here](https://forms.gle/t56w9ECmFwAaHxwd7)
+
+<br>
+
+### ⚙️ <ins>Option #3 - $1,000 Bonus - Django Students Showcase</ins>
+
+<br>
+
+> Note: You may particapate in this challenge along with challange #1 & #2
+
+<br>
+
+Ok Django developers, here's your chance to show off your projects!
+
+If you have taken one of my paid courses within the past 2 years submit your best project for a chance to win $1,000.  Submitting projects you've worked on in the past is fine, just make sure you used Django in the tech stack.
+
+You'll be required to submit a recipt for either one of the following projects:
+
+- [Django 2021](https://dennisivy.teachable.com/p/django-beginners-course)
+- [Django with React | An Ecommerce Website](https://www.udemy.com/course/django-with-react-an-ecommerce-website/)
+- Django Ecommerce Website
+
+### [Submit Projects Here](https://forms.gle/t56w9ECmFwAaHxwd7)
+
+<br>
 
 ## 🧑‍⚖️ What Judges Are Looking For
 
