@@ -137,7 +137,7 @@ You'll be required to submit a recipt for either one of the following projects:
 - [Django with React | An Ecommerce Website](https://www.udemy.com/course/django-with-react-an-ecommerce-website/)
 - Django Ecommerce Website
 
-### [Submit Projects Here](https://forms.gle/t56w9ECmFwAaHxwd7)
+### [Submit Projects Here](https://forms.gle/HpfpEgyvpUKoutf6A)
 
 <br>
 
