@@ -1,4 +1,4 @@
-# Finalist for the HarperDB challenge (11)
+# Finalist for the HarperDB challenge (12)
 
 **What judges are looking for:**
 
@@ -250,3 +250,22 @@
 
 **Dennis Notes**
 - I like the thinking behind this one
+
+
+<br>
+
+---
+
+<br>
+
+## 12 - Erik
+
+**Marketing Pitch**
+
+> All-in-one platform for hiring and finding yourself a job
+
+<img style="max-width:500px" src="./images/thumbnails/12.PNG"/>
+
+**Links:**
+- [Figma](https://www.figma.com/file/YUR8VHpC9vJgv85fe7Jnz8/Untitled?node-id=0%3A1)
+- [Github](https://github.com/erik465/hackaton)
