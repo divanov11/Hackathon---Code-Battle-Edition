@@ -60,7 +60,7 @@
 
 > It covers all the important aspects to hire a candidate, right from creating a job, assigning tasks, and conducting the interview of the candidate. 
 
-<img style="max-width:500px" src="./images/thumbnails/3.png"/>
+<img style="max-width:500px" src="./images/thumbnails/3.PNG"/>
 
 **Links:**
 - [Github](https://github.com/priyanks25coder/hackathon2022)
@@ -114,7 +114,7 @@
 >Pinned Profiles will be saved and you can come later and see list of candidates which you preffered for interview.
 
 
-<img style="max-width:500px" src="./images/thumbnails/5.png"/>
+<img style="max-width:500px" src="./images/thumbnails/5.PNG"/>
 
 
 **Links:**
@@ -145,7 +145,9 @@
 - [GitHub](https://github.com/HussnainAhmad1606/Developers-Hub-Hackathon-Project)
 
 <br>
+
 ---
+
 <br>
 
 ## 7 - DevHire (likklepeace & shakyracornelius)
@@ -180,7 +182,7 @@
 
 > Most of the HRs find it so annoying to sit on a desk and spend hours of time looking for developers at LinkedIn or Github. And I offer a solution for this time-taking problem with a very easy-to-use service named "Harperjob".By using Harperjob you can get a total information about a developer in very compressed and reliable way.
 
-<img style="max-width:500px" src="./images/thumbnails/8.png"/>
+<img style="max-width:500px" src="./images/thumbnails/8.PNG"/>
 
 
 **Links:**
@@ -219,7 +221,7 @@
 
 > One of the major challenges faced by Hiring Managers is the lack of an easy process for finding developer/tech talent, DevHub was created to solve that. With DevHub, the need for recruiters to visit multiple websites in search of developers has been eliminated. Talented Developers can now be found in a single search. Hiring Managers can search for a developer's information and save it for subsequent review.
 
-<img style="max-width:500px" src="./images/thumbnails/10.png"/>
+<img style="max-width:500px" src="./images/thumbnails/10.PNG"/>
 
 
 **Links:**
@@ -239,7 +241,7 @@
 
 > Modern recruiting practices are broken. Most interview processes rely on a day-long interview. Such an interview practice is not the best way to evaluate a candidate. In my opinion, it is a much better idea to have an entire arsenal of people to back up your skills. Hence, the solution is obviously to rely on recommendations from your coworkers, colleagues as well as managers. However, writing detailed recommendations is time consuming and is usually very specific to a particular job role. I believe providing smaller and more generic recommendations is the right way to go about recruitment. Having a large number of recommendations explaining your expertise is a much better way to go, as a lot of people would vouch for the skills you have as opposed to having only 2-3 people who can speak to your skills. 
 
-<img style="max-width:500px" src="./images/thumbnails/11.png"/>
+<img style="max-width:500px" src="./images/thumbnails/11.PNG"/>
 
 **Links**
 - [Figma](https://www.figma.com/file/PDOcdN6rKUGYI3HXais0GP/EZRecommend?node-id=0%3A1)
