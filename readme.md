@@ -96,7 +96,7 @@ We all hate endless meetings that waste our time, Especially those meetings that
 
 **Resources:** [Learn more about how to use Agora here](agora_resources.md) 
 
-### [Submit Projects Here](https://forms.gle/t56w9ECmFwAaHxwd7)
+### [Finalists](finalist_agora.md)
 
 ### ⚙️ <ins>Option #2 - Developer Search Website For Hiring Managers</ins>
 
@@ -137,7 +137,7 @@ You'll be required to submit a recipt for either one of the following projects:
 - [Django with React | An Ecommerce Website](https://www.udemy.com/course/django-with-react-an-ecommerce-website/)
 - Django Ecommerce Website
 
-### [Submit Projects Here](https://forms.gle/HpfpEgyvpUKoutf6A)
+### [Finalists](harperdb_resources.md)
 
 <br>
 
