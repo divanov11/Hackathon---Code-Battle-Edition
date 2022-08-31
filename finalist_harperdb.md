@@ -150,7 +150,7 @@
 
 <br>
 
-## 7 - DevHire (likklepeace & shakyracornelius)
+## 7 - DevHire (likklepeace)
 
 **Marketing Pitch**
 
