@@ -163,6 +163,7 @@
 <img style="max-width:500px" src="./images/thumbnails/7.png"/>
 
 **Links**
+- [GitHub](https://github.com/shakyracornelius/hackathon-code-battle-edition)
 - [Video](https://clipchamp.com/watch/ptE4j5VBw25)
 - [ProtoType](https://github.com/shakyracornelius/hackathon-code-battle-edition/blob/main/DevHire%20Prototype.pdf)
 
@@ -227,6 +228,7 @@
 **Links:**
 - [Figma](https://www.figma.com/file/DW5JJOJjWzi0EtoPKwz3q7/Dev-Hub)
 - [GitHub](https://github.com/jethliya-balaji/DevHub)
+- [Live Demo](https://devhub.up.railway.app/login/?next=/)
 
 
 <br>
