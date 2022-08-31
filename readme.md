@@ -96,7 +96,7 @@ We all hate endless meetings that waste our time, Especially those meetings that
 
 **Resources:** [Learn more about how to use Agora here](agora_resources.md) 
 
-### [Finalists](finalist_agora.md)
+### [Challenge #1 Finalists](finalist_agora.md)
 
 ### ⚙️ <ins>Option #2 - Developer Search Website For Hiring Managers</ins>
 
@@ -115,7 +115,7 @@ As a hiring manager it can be annoying to search linkedin and github accounts wh
 
 **Resources:** [Learn more about how to use HarperDB here](harperdb_resources.md) 
 
-### [Submit Projects Here](https://forms.gle/t56w9ECmFwAaHxwd7)
+### [Challenge #2 Finalists](finalist_harperdb.md)
 
 <br>
 
@@ -137,7 +137,6 @@ You'll be required to submit a recipt for either one of the following projects:
 - [Django with React | An Ecommerce Website](https://www.udemy.com/course/django-with-react-an-ecommerce-website/)
 - Django Ecommerce Website
 
-### [Finalists](harperdb_resources.md)
 
 <br>
 
